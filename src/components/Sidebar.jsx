@@ -14,7 +14,7 @@ export function Sidebar() {
           src="https://github.com/Anderson-reis7.png"
         />
         <strong>Anderson Reis</strong>
-        <span>Front-End Developerr</span>
+        <span>Front-End Developer</span>
       </div>
       <footer>
         <a href="#">
